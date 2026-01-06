@@ -1,5 +1,7 @@
 # Subtitle Studio License Violation Investigation
 
+[繁體中文版本](README.zh-tw.md)
+
 Documentation of license compliance issues discovered in Subtitle Studio (subtitlestudio.ai) by Articue Tech Limited.
 
 ## Table of Contents
