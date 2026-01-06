@@ -107,16 +107,16 @@ Articue Tech Limited 開發的 Subtitle Studio (subtitlestudio.ai) 中發現的�
 ### Subtitle Studio 的模型
 
 ```
-文件：   model.bin
-大小：   1,080,732,091 位元組
+文件：    model.bin
+大小：    1,080,732,091 位元組
 SHA256： 3a214837221e4530dbc1fe8d734f302af393eb30bd0ed046042ebf4baf70f6f2
 ```
 
 ### 官方 Whisper large-v2-q5_0
 
 ```
-文件：   ggml-large-v2-q5_0.bin
-大小：   1,080,732,091 位元組
+文件：    ggml-large-v2-q5_0.bin
+大小：    1,080,732,091 位元組
 SHA256： 3a214837221e4530dbc1fe8d734f302af393eb30bd0ed046042ebf4baf70f6f2
 ```
 
