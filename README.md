@@ -2,8 +2,6 @@
 
 Documentation of license compliance issues discovered in Subtitle Studio (subtitlestudio.ai) by Articue Tech Limited.
 
-**Disclaimer:** This repository is created for educational and transparency purposes. All information is based on publicly available data and technical analysis.
-
 ## Table of Contents
 
 - [Executive Summary](#executive-summary)
@@ -336,4 +334,4 @@ This documentation is released under CC0 1.0 Universal (Public Domain). See [LIC
 **Investigator:** [@nelsonlaidev](https://github.com/nelsonlaidev)  
 **Contact:** me@nelsonlai.dev
 
-**Disclaimer:** This investigation is for educational purposes. The author does not encourage harassment. All information is based on publicly available data. Subtitle Studio and Articue Tech Limited are trademarks of their respective owners.
+**Disclaimer:** This investigation is for educational and transparency purposes. The author does not encourage harassment. All information is based on publicly available data and technical analysis. Subtitle Studio and Articue Tech Limited are trademarks of their respective owners.
